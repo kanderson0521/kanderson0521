@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+With experience using data-oriented programming languages and visualization software, I bring data to life. Throughout my experience in the Applied Data Science Master’s program at Syracuse University, I have gained a thorough understanding of supervised and unsupervised learning techniques and I am excited to leverage my analytical and programming skills toward product development.
+
+Throughout my studies, I developed a passion for text analytics and programming. I took additional courses outside my program’s curriculum to learn model testing and deployment and looking to move into a ML/NLP Engineer. Check out some of my projects below.

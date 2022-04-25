@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-With experience using data-oriented programming languages and visualization software, I bring data to life. Throughout my experience in the Applied Data Science Master’s program at Syracuse University, I have gained a thorough understanding of supervised and unsupervised learning techniques and I am excited to leverage my analytical and programming skills toward product development.
+Hi! I’m Kelly Anderson, a Data Analyst with 3+ years’ experience and a background in various IT support roles. In my current role as a Customer Experience Analyst I define, develop, analyze, and leverage customer-based metrics to produce data-driven solutions to improve the customer’s experience. I have a passion for discovering solutions hidden in large data sets and enjoy collaborating with stakeholders and SMEs to improve business outcomes. 
 
-Throughout my studies, I developed a passion for text analytics and programming. I took additional courses outside my program’s curriculum to learn model testing and deployment and looking to move into a ML/NLP Engineer. Check out some of my projects below.
+With experience using data-oriented programming languages and visualization software, I bring data to life. Throughout my experience in the Applied Data Science Master’s program at Syracuse University, I have gained a thorough understanding of supervised and unsupervised learning techniques and I am excited to leverage my analytical and programming skills toward product development. 

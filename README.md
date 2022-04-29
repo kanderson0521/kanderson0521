@@ -20,6 +20,8 @@ Hi! I’m Kelly Anderson (she/her), a Data Analyst with 3+ years’ experience a
 Throughout my experience in the Applied Data Science Master’s program at Syracuse University, I gained a thorough understanding of supervised and unsupervised machine learning techniques and I am excited to leverage my analytical and programming skills toward product development, specifically in the NLP-space. I also have an interest in web app development and am looking to move into a role where I can develop and help to deploy ML models and features. I love being a data analyst but not as much as programming!
 
 
+
+
 🔭 I’m currently working on a text generation project - stay tuned!
 
 👯 I’m looking to collaborate on creating chatbots or NLG applications.

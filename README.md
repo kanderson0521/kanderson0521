@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ⚡ Fun fact: I wanted to be a web developer before pursuing Grad school.
 -->
-Hi! I’m Kelly Anderson (she/her), a Data Analyst with 3+ years’ experience and a background in various IT support roles moving into a Software Engineer role. Recently graduated with a Master's in Data Science where I gained an interest in NLP-based applications. I also have an interest in web app game development in JavaScript.
+Hi! I’m Kelly Anderson (she/her), a Data Analyst with 3+ years’ experience and a background in various IT support roles moving into a Software Engineer role. Recently graduated with a Master's in Data Science where I gained an interest in building NLP-based applications. I also have an interest in web app game development in JavaScript.
 
 
 

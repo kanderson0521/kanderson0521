@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ⚡ Fun fact: I wanted to be a web developer before pursuing Grad school.
 -->
-Hi! I’m Kelly Anderson (she/her), a Data Analyst with 3+ years’ experience and a background in various IT support roles. Throughout my experience in the Applied Data Science Master’s program at Syracuse University, I gained a thorough understanding of supervised and unsupervised machine learning techniques and I am excited to leverage my analytical and programming skills toward product development, specifically in the NLP-space. I also have an interest in web app development and am looking to move into a role where I can develop and help to deploy ML models and features. I love being a data analyst but not as much as programming!
+Hi! I’m Kelly Anderson (she/her), a Data Analyst with 3+ years’ experience and a background in various IT support roles moving into a Software Engineer role. Recently graduated with a Master's in Data Science where I gained a thorough understanding of supervised and unsupervised machine learning techniques and I am excited to leverage my analytical and programming skills toward product development, specifically in the NLP-space. I also have an interest in web app game development in JavaScript and plan on learning melonJS.
 
 
 
 🔭 I’m currently working on a text generation project - stay tuned!
 
-👯 I’m looking to collaborate on creating chatbots or NLG applications.
+👯 I’m looking to collaborate on creating chatbots that display different personas.
 
 📫 How to reach me: Kelly.Anderson0521@gmail.com

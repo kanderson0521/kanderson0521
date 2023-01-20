@@ -6,6 +6,6 @@ Hi! I’m Kelly Anderson (she/her), a Software Engineer in the NLP space with a 
 
 ⌨ I’m currently working on a React website, following along with the tutorial in The Road to React.
 
-🔮 Plan to create single-page interactive web applications that utilize ML models.
+🔮 Plan to create responsive web applications that utilize ML models.
 
 📫 How to reach me: Kelly.Anderson0521@gmail.com

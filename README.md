@@ -7,5 +7,3 @@ Hi! I’m Kelly Anderson, a Software Engineer in the NLP space with a background
 ⌨ I’m currently working on a React website, following along with the tutorial in The Road to React.
 
 🔮 Plan to create responsive web applications that utilize ML models.
-
-📫 How to reach me: Kelly.Anderson0521@gmail.com
